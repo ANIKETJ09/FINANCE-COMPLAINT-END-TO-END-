@@ -1,0 +1,12 @@
+.github
+.gitignore
+.git
+census_consumer_complaint_data
+census_consumer_complaint.egg-info
+venv
+zip_to_csv
+airflow/logs
+airflow/airflow.cfg
+airflow/airflow.db
+airflow/webserver_config.py
+

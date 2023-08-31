@@ -1,0 +1,4 @@
+tfx==1.10.0
+apache-beam[interactive]
+apache-airflow==2.3.2
+-e .
